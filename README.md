@@ -1,4 +1,5 @@
-
+* [exemplo java](amanda_atividades/logica_computacional
+)
 * [exemplo if](FundamentosdeTi/exemplos/Atividade1.sh)
 
 # PortfolioTecnico
