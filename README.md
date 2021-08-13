@@ -1,3 +1,4 @@
+* [respostas recuperação](/PortfolioTecnico/prova)
 * [atividade revisão](/PortfolioTecnico/Exemplos_sh)
 * [exemplo java](amanda_atividades/logica_computacional
 )
