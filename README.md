@@ -1,7 +1,18 @@
+## Links gerais
 * [respostas recuperação](/prova)
 * [atividade revisão](/Exemplos_sh)
 * [exemplo java](/amanda_atividades/logica_computacional)
 * [exemplo if](/FundamentosdeTi/exemplos/Atividade1.sh)
+
+## Fundamentos Ti
+* [Projeto 1](/FundamentosdeTi/exemplos/Atividade1.sh)
+* [Projeto 2](/FundamentosdeTi/exemplos/Atividade2.sh)
+* [Projeto 3](/FundamentosdeTi/exemplos/Atividade3.sh)
+
+## Logica Computacional
+* [Projeto 1](/logica_computacional/exemplo.java)
+* [Projeto 2](/logica_computacional/exemplo2.java)
+* [Projeto 3](/logica_computacional/exemplo3.java)
 
 # PortfolioTecnico
 Portfólio de 2021 constituído em 3 matérias: Logica computacional, Fundamentos de redes e Fundamentos de Ti
