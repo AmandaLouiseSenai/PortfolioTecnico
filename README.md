@@ -1,5 +1,5 @@
-* [respostas recuperação](/PortfolioTecnico/prova)
-* [atividade revisão](/PortfolioTecnico/Exemplos_sh)
+* [respostas recuperação](/prova)
+* [atividade revisão](/Exemplos_sh)
 * [exemplo java](/amanda_atividades/logica_computacional)
 * [exemplo if](/FundamentosdeTi/exemplos/Atividade1.sh)
 
