@@ -1,4 +1,4 @@
-## Links gerais
+## Atividades gerais
 * [respostas recuperação](/prova)
 * [atividade revisão](/Exemplos_sh)
 * [exemplo java](/amanda_atividades/logica_computacional)
