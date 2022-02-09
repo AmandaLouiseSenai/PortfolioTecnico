@@ -42,7 +42,7 @@ Portfólio de 2021 constituído em 3 matérias: Logica computacional, Fundamento
 * ● Gerenciamento de conflitos de Sei
 
 ### Formação Complementar 
-* ● Curso de Inglês Intermediário 1 e 2 - Sesc Estreito
+* ● Curso de Inglês Intermediário 3 e 4 - Sesc Estreito
 
 * ● Cursando o primeiro ano de Desenvolvimento de Sistemas
 
