@@ -1,3 +1,6 @@
+# PortfolioTecnico
+Portfólio de 2021 constituído em 3 matérias: Logica computacional, Fundamentos de redes e Fundamentos de Ti
+
 ## Atividades gerais
 * [respostas recuperação](/prova)
 * [atividade revisão](/Exemplos_sh)
@@ -14,9 +17,20 @@
 * [Projeto 2](/logica_computacional/exemplo2.java)
 * [Projeto 3](/logica_computacional/exemplo3.java)
 
-# PortfolioTecnico
-Portfólio de 2021 constituído em 3 matérias: Logica computacional, Fundamentos de redes e Fundamentos de Ti
-# PortfolioTecnico
+[hhu](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Banco%20de%20Dados/Atividade%20zoo.sql)
+
+## Portfolio 2022
+Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Modelagm de Sistemas e Banco de Dados.
+
+### Programação de Aplicativos (Jackson)
+
+
+### Modelagem de Sistemas (Ana)
+
+
+### Banco de Dados (Maria)
+* [Atividade Zoo](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Banco%20de%20Dados/Atividade%20zoo.sql)
+
 ## Amanda louise Miranda Romão
 ### Formação acadêmica
 * ● 2 ° Ano do Ensino Médio Integrado - Sesi Senai, São José.
