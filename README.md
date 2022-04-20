@@ -17,15 +17,20 @@ Portfólio de 2021 constituído em 3 matérias: Logica computacional, Fundamento
 * [Projeto 2](/logica_computacional/exemplo2.java)
 * [Projeto 3](/logica_computacional/exemplo3.java)
 
-[hhu](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Banco%20de%20Dados/Atividade%20zoo.sql)
 
 ## Portfolio 2022
 Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Modelagm de Sistemas e Banco de Dados.
 
 ### Programação de Aplicativos (Jackson)
+*
+*
+*
 
 
 ### Modelagem de Sistemas (Ana)
+*
+*
+*
 
 
 ### Banco de Dados (Maria)
