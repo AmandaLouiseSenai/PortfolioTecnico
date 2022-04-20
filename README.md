@@ -30,6 +30,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 
 ### Banco de Dados (Maria)
 * [Atividade Zoo](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Banco%20de%20Dados/Atividade%20zoo.sql)
+* [Atividade Loja de Roupas] (https://github.com/AmandaLouiseSenai/PortfolioTecnico/new/main/Banco%20de%20Dados)
 
 ## Amanda louise Miranda Romão
 ### Formação acadêmica
