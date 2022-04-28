@@ -1,3 +1,5 @@
+Escolhi essa atividade porque foi muito legal de fazer, é satisfatorio quando o codigo funciona.
+
 create table animais(
 	cod varchar primary key,
 	nome varchar,
