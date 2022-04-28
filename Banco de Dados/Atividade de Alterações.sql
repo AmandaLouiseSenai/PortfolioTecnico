@@ -9,3 +9,5 @@
 3 Adicionar género, para ter um conhecimento do publico.
 4 Adicionar frete, para saber o valor estimado para enviar a compra para cada lugar.
 5 Adicionar cupom de desconto, porque o desconto é sempre bom.
+
+Escolhi essa atividade porque foi uma das que eu tive um pouco de dificuldade para fazer, por isso fiquei marcada com essa atividade
