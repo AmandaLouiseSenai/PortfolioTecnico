@@ -1,3 +1,5 @@
+Escolhi essa atividade, porque foi tranquila de fazer.
+
 create table fornecedores(
 	CNPJ  varchar (18) primary key,
 	nome_fantasia varchar,
