@@ -40,7 +40,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 
 ## Amanda louise Miranda Romão
 ### Formação acadêmica
-*  2 ° Ano do Ensino Médio Integrado - Sesi Senai, São José.
+*  3 ° Ano do Ensino Médio Integrado - Sesi Senai, São José.
 
 *  Ensino fundamental II 
 
