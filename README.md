@@ -21,16 +21,26 @@ Portfólio de 2021 constituído em 3 matérias: Logica computacional, Fundamento
 ## Portfolio 2022
 Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Modelagm de Sistemas e Banco de Dados.
 
+### Geral (3 professores)
+*[Atividade Teste Vocacional] ()
+
 ### Programação de Aplicativos (Jackson)
+#### Primeiro Trimestre:
 * [Atividade Alecrim dourado](https://github.com/AmandaLouiseSenai/PortfolioTecnico/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/AlecrimDourado)
+#### Segundo Trimeste 
+* [Atividade] ()
 
 
 
 
 ### Modelagem de Sistemas (Ana)
+#### Primeiro Trimestre
 * [Atividade Escola](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Atividade%20escola.java)
 * [Atividade Agiotagem](https://github.com/AmandaLouiseSenai/PortfolioTecnico/commit/c8cd33a8fa304174235b963f0e3777ad67e10c93)
 * [Atividade Prisioneiro](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Presidiario.java)
+
+#### Segundo Trimestre
+* [Atividade Pitch]()
 
 
 ### Banco de Dados (Maria)
