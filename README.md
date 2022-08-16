@@ -29,7 +29,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 * [Atividade Alecrim dourado](https://github.com/AmandaLouiseSenai/PortfolioTecnico/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/AlecrimDourado)
 
 #### Segundo Trimeste 
-* [Atividade](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/Thegoodme%20(2).zip)
+* [Atividade App do Cigarro](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/Thegoodme%20(2).zip)
 
 
 
