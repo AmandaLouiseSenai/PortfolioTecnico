@@ -40,7 +40,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 * [Atividade Prisioneiro](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Presidiario.java)
 
 #### Segundo Trimestre
-* [Atividade Pitch]()
+* [Atividade Pitch](https://github.com/AmandaLouiseSenai/PortfolioTecnico/tree/main/Desenvolvimento%20de%20Sistemas)
 
 
 ### Banco de Dados (Maria)
