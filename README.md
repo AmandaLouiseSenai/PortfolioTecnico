@@ -31,6 +31,9 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 #### Segundo Trimeste 
 * [Atividade App do Cigarro](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/Thegoodme%20(2).zip)
 
+### Terceiro Trimestre
+* [Atividade matrix]
+
 
 
 
@@ -42,6 +45,9 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 
 #### Segundo Trimestre
 * [Atividade Pitch](https://github.com/AmandaLouiseSenai/PortfolioTecnico/tree/main/Desenvolvimento%20de%20Sistemas)
+
+### Terceiro Trimestre
+* []
 
 
 ### Banco de Dados (Maria)
