@@ -26,7 +26,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 
 ### Programação de Aplicativos (Jackson)
 ### Autoria
-*[Mundo Senai](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Autoria%20Mundo%20senai)
+* [Mundo Senai](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Autoria%20Mundo%20senai)
 
 #### Primeiro Trimestre:
 * [Atividade Alecrim dourado](https://github.com/AmandaLouiseSenai/PortfolioTecnico/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/AlecrimDourado)
@@ -39,7 +39,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 
 ### Modelagem de Sistemas (Ana)
 ### Autoria
-*[Mundo Senai](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Autoria%20Mundo%20senai)
+* [Mundo Senai](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Autoria%20Mundo%20senai)
 
 #### Primeiro Trimestre
 * [Atividade Escola](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Atividade%20escola.java)
