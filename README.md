@@ -44,7 +44,7 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 * [Atividade Pitch](https://github.com/AmandaLouiseSenai/PortfolioTecnico/tree/main/Desenvolvimento%20de%20Sistemas)
 
 ### Terceiro Trimestre
-* []
+* [Atividade Diagrama de Casos de Uso](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Atividade%20diagrama%20de%20casos%20de%20uso)
 
 
 ### Banco de Dados (Maria)
