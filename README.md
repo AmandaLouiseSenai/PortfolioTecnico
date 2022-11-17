@@ -35,6 +35,9 @@ Portfólio de 2022 constituído em 3 matérias: Programação de Aplicativos, Mo
 * [Atividade matrix](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos/Matrix.zip)
 
 ### Modelagem de Sistemas (Ana)
+### Autoria
+*[Mundo Senai]()
+
 #### Primeiro Trimestre
 * [Atividade Escola](https://github.com/AmandaLouiseSenai/PortfolioTecnico/blob/main/Modelagem%20de%20Sistemas/Atividade%20escola.java)
 * [Atividade Agiotagem](https://github.com/AmandaLouiseSenai/PortfolioTecnico/commit/c8cd33a8fa304174235b963f0e3777ad67e10c93)
